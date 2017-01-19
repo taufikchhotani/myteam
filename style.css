@@ -1,0 +1,10 @@
+body {
+  text-align: center; font-family: 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  background-image: url(linedpaper.png);
+  background-repeat: repeat;
+}
+th {
+  text-align: center;
+  font-weight: bold;
+}
